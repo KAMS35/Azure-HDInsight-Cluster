@@ -25,7 +25,7 @@ This is Prompt 2 and will contain the following:
 3. You can also view the statistics of the performance and usage by different jobs by the help of Ambari. ![charts](https://raw.githubusercontent.com/KAMS35/Azure-HDInsight-Cluster/master/screenshots/9.%20charts.png)
 
 ## 3] Results
-The implementation of Predictive analysis for a sample data was attempted on the food data. (https://kamatchidevisubramanian.azurehdinsight.net/jupyter/notebooks/PySpark/Spark%20Machine%20Learning%20-%20Predictive%20analysis%20on%20food%20inspection%20data.ipynb)
+The implementation of Predictive analysis for a sample food data was attempted rather unsuccessfully. (https://kamatchidevisubramanian.azurehdinsight.net/jupyter/notebooks/PySpark/Spark%20Machine%20Learning%20-%20Predictive%20analysis%20on%20food%20inspection%20data.ipynb)
 
 The overview of the jobs and the activity log is peresented here.
 ![Overview](https://raw.githubusercontent.com/KAMS35/Azure-HDInsight-Cluster/master/screenshots/10.%20results.png)
