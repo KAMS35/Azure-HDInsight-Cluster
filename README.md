@@ -24,5 +24,13 @@ This is Prompt 2 and will contain the following:
 
 3. You can also view the statistics of the performance and usage by different jobs by the help of Ambari. ![charts](https://raw.githubusercontent.com/KAMS35/Azure-HDInsight-Cluster/master/screenshots/9.%20charts.png)
 
+## 3] Results
+![Overview](https://raw.githubusercontent.com/KAMS35/Azure-HDInsight-Cluster/master/screenshots/10.%20results.png)
+
+![Activity log](https://raw.githubusercontent.com/KAMS35/Azure-HDInsight-Cluster/master/screenshots/11.%20activity%20log.png)
+
+## 4] Deleting the HDInsight CLuster
+To delete the cluster, simply click on the delete button and enter the name of the cluster in the box. The process might take a while and be sure to save the results before deleting the cluster. 
+
 
  
